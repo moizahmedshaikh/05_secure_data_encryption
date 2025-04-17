@@ -1,4 +1,3 @@
-from random import choice
 import streamlit as st
 from utils import *
 
