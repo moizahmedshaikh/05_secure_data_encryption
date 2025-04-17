@@ -1,5 +1,4 @@
 from random import choice
-from tkinter import Menu
 import streamlit as st
 from utils import *
 
